@@ -12,7 +12,7 @@ Tiktok_Signature 工具提供如下功能：
 
 ## 快速开始
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/5ime/Tiktok_Signature)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lxn0212/Tiktok_Signature)
 
 1. 点击上方按钮，跳转至 `Vercel` 进行部署。
 
